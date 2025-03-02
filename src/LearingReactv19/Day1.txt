@@ -1,0 +1,12 @@
+✅ You’ve just gotten your first taste of React! Let’s recap some key points.
+✅ React lets you create components, reusable UI elements for your app.
+✅ In a React app, every piece of UI is a component.
+✅ React components are regular JavaScript functions except:
+    Their names always begin with a capital letter.
+    They return JSX markup.
+
+    
+✅ What a root component file is
+✅ How to import and export a component
+✅ When and how to use default and named imports and exports
+✅ How to export multiple components from the same file
