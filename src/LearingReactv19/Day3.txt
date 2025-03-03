@@ -5,3 +5,13 @@
 ✅ Nested JSX like <Card><Avatar /></Card> will appear as the Card component’s children prop.
 ✅ Props are read-only snapshots in time: every render receives a new version of props.
 ✅ You can’t change props. When you need interactivity, you’ll need to set state.
+
+✅ In React, you control branching logic with JavaScript.
+✅ You can return a JSX expression conditionally with an if statement.
+✅ You can conditionally save some JSX to a variable and then include it inside other JSX by using the curly braces.
+✅ In JSX, {cond ? <A /> : <B />} means “if cond, render <A />, otherwise <B />”.
+✅ In JSX, {cond && <A />} means “if cond, render <A />, otherwise nothing”.
+✅ The shortcuts are common, but you don’t have to use them if you prefer plain if.
+
+
+
